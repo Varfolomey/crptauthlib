@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CRPTAuthLib35Wrapper\CRPTAuthLib35.csproj" />
+    <ProjectReference Include="..\CRPTAuthLib35\CRPTAuthLib35.csproj" />
   </ItemGroup>
 
 </Project>

@@ -9,3 +9,14 @@ Q:\crptauthlib\crptauthlib\CRPTAuthLib35Wrapper\bin\Release\Newtonsoft.Json.xml
 Q:\crptauthlib\crptauthlib\CRPTAuthLib35Wrapper\obj\Release\CRPTAuthLib35.csproj.CopyComplete
 Q:\crptauthlib\crptauthlib\CRPTAuthLib35Wrapper\obj\Release\CRPTAuthLib35Wrapper.dll
 Q:\crptauthlib\crptauthlib\CRPTAuthLib35Wrapper\obj\Release\CRPTAuthLib35Wrapper.pdb
+Q:\crptauthlib\crptauthlib\CRPTAuthLib35\bin\Release\CRPTAuthLib35.dll
+Q:\crptauthlib\crptauthlib\CRPTAuthLib35\bin\Release\CRPTAuthLib35.pdb
+Q:\crptauthlib\crptauthlib\CRPTAuthLib35\bin\Release\Interop.CAdESCOM.dll
+Q:\crptauthlib\crptauthlib\CRPTAuthLib35\bin\Release\Interop.CAPICOM.dll
+Q:\crptauthlib\crptauthlib\CRPTAuthLib35\bin\Release\Newtonsoft.Json.dll
+Q:\crptauthlib\crptauthlib\CRPTAuthLib35\bin\Release\Newtonsoft.Json.xml
+Q:\crptauthlib\crptauthlib\CRPTAuthLib35\obj\Release\CRPTAuthLib35.csprojAssemblyReference.cache
+Q:\crptauthlib\crptauthlib\CRPTAuthLib35\obj\Release\CRPTAuthLib35.csproj.CoreCompileInputs.cache
+Q:\crptauthlib\crptauthlib\CRPTAuthLib35\obj\Release\CRPTAuthLib35.csproj.CopyComplete
+Q:\crptauthlib\crptauthlib\CRPTAuthLib35\obj\Release\CRPTAuthLib35.dll
+Q:\crptauthlib\crptauthlib\CRPTAuthLib35\obj\Release\CRPTAuthLib35.pdb

@@ -7,8 +7,8 @@
     <ProjectGuid>{47B5EB0E-67A4-4ECF-ACFE-67A39792F7FD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CRPTAuthLib35Wrapper</RootNamespace>
-    <AssemblyName>CRPTAuthLib35Wrapper</AssemblyName>
+    <RootNamespace>CRPTAuthLib35</RootNamespace>
+    <AssemblyName>CRPTAuthLib35</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

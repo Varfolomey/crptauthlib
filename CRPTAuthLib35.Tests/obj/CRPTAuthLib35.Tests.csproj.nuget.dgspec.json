@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "Q:\\crptauthlib\\crptauthlib\\CRPTAuthLib35Wrapper\\CRPTAuthLib35.csproj": {
-                "projectPath": "Q:\\crptauthlib\\crptauthlib\\CRPTAuthLib35Wrapper\\CRPTAuthLib35.csproj"
+              "Q:\\crptauthlib\\crptauthlib\\CRPTAuthLib35\\CRPTAuthLib35.csproj": {
+                "projectPath": "Q:\\crptauthlib\\crptauthlib\\CRPTAuthLib35\\CRPTAuthLib35.csproj"
               }
             }
           }
@@ -76,11 +76,11 @@
         }
       }
     },
-    "Q:\\crptauthlib\\crptauthlib\\CRPTAuthLib35Wrapper\\CRPTAuthLib35.csproj": {
+    "Q:\\crptauthlib\\crptauthlib\\CRPTAuthLib35\\CRPTAuthLib35.csproj": {
       "restore": {
-        "projectUniqueName": "Q:\\crptauthlib\\crptauthlib\\CRPTAuthLib35Wrapper\\CRPTAuthLib35.csproj",
+        "projectUniqueName": "Q:\\crptauthlib\\crptauthlib\\CRPTAuthLib35\\CRPTAuthLib35.csproj",
         "projectName": "CRPTAuthLib35",
-        "projectPath": "Q:\\crptauthlib\\crptauthlib\\CRPTAuthLib35Wrapper\\CRPTAuthLib35.csproj"
+        "projectPath": "Q:\\crptauthlib\\crptauthlib\\CRPTAuthLib35\\CRPTAuthLib35.csproj"
       },
       "frameworks": {
         "net35": {}

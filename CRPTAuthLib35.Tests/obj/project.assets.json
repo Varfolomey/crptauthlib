@@ -4625,8 +4625,8 @@
     },
     "CRPTAuthLib35/1.0.0": {
       "type": "project",
-      "path": "../CRPTAuthLib35Wrapper/CRPTAuthLib35.csproj",
-      "msbuildProject": "../CRPTAuthLib35Wrapper/CRPTAuthLib35.csproj"
+      "path": "../CRPTAuthLib35/CRPTAuthLib35.csproj",
+      "msbuildProject": "../CRPTAuthLib35/CRPTAuthLib35.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4664,8 +4664,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "Q:\\crptauthlib\\crptauthlib\\CRPTAuthLib35Wrapper\\CRPTAuthLib35.csproj": {
-              "projectPath": "Q:\\crptauthlib\\crptauthlib\\CRPTAuthLib35Wrapper\\CRPTAuthLib35.csproj"
+            "Q:\\crptauthlib\\crptauthlib\\CRPTAuthLib35\\CRPTAuthLib35.csproj": {
+              "projectPath": "Q:\\crptauthlib\\crptauthlib\\CRPTAuthLib35\\CRPTAuthLib35.csproj"
             }
           }
         }
