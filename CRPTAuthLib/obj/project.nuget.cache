@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bpo8Q9JQtiTxVgwtCwX5smL7sUz61s+XvceSsntybEJLorUUW2yzHSF3aEu8EWcHDJP9nrDjdqkexjhPnRzT6w==",
+  "success": true,
+  "projectFilePath": "Q:\\crptauthlib\\crptauthlib\\CRPTAuthLib\\CRPTAuthLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ROG ZEPHYRUS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ROG ZEPHYRUS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ROG ZEPHYRUS\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

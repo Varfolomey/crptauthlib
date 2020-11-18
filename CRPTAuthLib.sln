@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRPTAuthLib", "CRPTAuthLib\CRPTAuthLib.csproj", "{F10A8093-9DE0-40E1-847F-083F0E7921D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRPTAuthLib.Tests", "CRPTAuthLib.Tests\CRPTAuthLib.Tests.csproj", "{83261F70-2304-40A5-9069-CA10A917077A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F10A8093-9DE0-40E1-847F-083F0E7921D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10A8093-9DE0-40E1-847F-083F0E7921D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10A8093-9DE0-40E1-847F-083F0E7921D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10A8093-9DE0-40E1-847F-083F0E7921D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83261F70-2304-40A5-9069-CA10A917077A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83261F70-2304-40A5-9069-CA10A917077A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83261F70-2304-40A5-9069-CA10A917077A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83261F70-2304-40A5-9069-CA10A917077A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64F05628-A8CA-499B-8824-AD63B8E5E8EC}
+	EndGlobalSection
+EndGlobal
