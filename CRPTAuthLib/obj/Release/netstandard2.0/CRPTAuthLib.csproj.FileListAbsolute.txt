@@ -10,3 +10,15 @@ C:\Users\ROG ZEPHYRUS\source\repos\CRPTAuthLib\CRPTAuthLib\obj\Release\netstanda
 C:\Users\ROG ZEPHYRUS\source\repos\CRPTAuthLib\CRPTAuthLib\obj\Release\netstandard2.0\CRPTAuthLib.csproj.CopyComplete
 C:\Users\ROG ZEPHYRUS\source\repos\CRPTAuthLib\CRPTAuthLib\obj\Release\netstandard2.0\CRPTAuthLib.dll
 C:\Users\ROG ZEPHYRUS\source\repos\CRPTAuthLib\CRPTAuthLib\obj\Release\netstandard2.0\CRPTAuthLib.pdb
+Q:\crptauthlib\crptauthlib\CRPTAuthLib\bin\Release\netstandard2.0\CRPTAuthLib.deps.json
+Q:\crptauthlib\crptauthlib\CRPTAuthLib\bin\Release\netstandard2.0\CRPTAuthLib.dll
+Q:\crptauthlib\crptauthlib\CRPTAuthLib\bin\Release\netstandard2.0\CRPTAuthLib.pdb
+Q:\crptauthlib\crptauthlib\CRPTAuthLib\bin\Release\netstandard2.0\Interop.CAdESCOM.dll
+Q:\crptauthlib\crptauthlib\CRPTAuthLib\bin\Release\netstandard2.0\Interop.CAPICOM.dll
+Q:\crptauthlib\crptauthlib\CRPTAuthLib\obj\Release\netstandard2.0\CRPTAuthLib.csprojAssemblyReference.cache
+Q:\crptauthlib\crptauthlib\CRPTAuthLib\obj\Release\netstandard2.0\CRPTAuthLib.AssemblyInfoInputs.cache
+Q:\crptauthlib\crptauthlib\CRPTAuthLib\obj\Release\netstandard2.0\CRPTAuthLib.AssemblyInfo.cs
+Q:\crptauthlib\crptauthlib\CRPTAuthLib\obj\Release\netstandard2.0\CRPTAuthLib.csproj.CoreCompileInputs.cache
+Q:\crptauthlib\crptauthlib\CRPTAuthLib\obj\Release\netstandard2.0\CRPTAuthLib.csproj.CopyComplete
+Q:\crptauthlib\crptauthlib\CRPTAuthLib\obj\Release\netstandard2.0\CRPTAuthLib.dll
+Q:\crptauthlib\crptauthlib\CRPTAuthLib\obj\Release\netstandard2.0\CRPTAuthLib.pdb

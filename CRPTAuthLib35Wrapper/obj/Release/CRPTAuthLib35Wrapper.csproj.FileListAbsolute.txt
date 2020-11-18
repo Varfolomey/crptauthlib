@@ -1,0 +1,2 @@
+Q:\crptauthlib\crptauthlib\CRPTAuthLib35Wrapper\obj\Release\CRPTAuthLib35Wrapper.csprojAssemblyReference.cache
+Q:\crptauthlib\crptauthlib\CRPTAuthLib35Wrapper\obj\Release\CRPTAuthLib35Wrapper.csproj.CoreCompileInputs.cache

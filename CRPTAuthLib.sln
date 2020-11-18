@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRPTAuthLib", "CRPTAuthLib\CRPTAuthLib.csproj", "{F10A8093-9DE0-40E1-847F-083F0E7921D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRPTAuthLib.Tests", "CRPTAuthLib.Tests\CRPTAuthLib.Tests.csproj", "{83261F70-2304-40A5-9069-CA10A917077A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRPTAuthLib.Tests", "CRPTAuthLib.Tests\CRPTAuthLib.Tests.csproj", "{83261F70-2304-40A5-9069-CA10A917077A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRPTAuthLib35", "CRPTAuthLib35Wrapper\CRPTAuthLib35.csproj", "{47B5EB0E-67A4-4ECF-ACFE-67A39792F7FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRPTAuthLib35.Tests", "CRPTAuthLib35.Tests\CRPTAuthLib35.Tests.csproj", "{3D16A108-1E4A-495F-943F-BB3FAFAB5365}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{83261F70-2304-40A5-9069-CA10A917077A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83261F70-2304-40A5-9069-CA10A917077A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83261F70-2304-40A5-9069-CA10A917077A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47B5EB0E-67A4-4ECF-ACFE-67A39792F7FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47B5EB0E-67A4-4ECF-ACFE-67A39792F7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47B5EB0E-67A4-4ECF-ACFE-67A39792F7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47B5EB0E-67A4-4ECF-ACFE-67A39792F7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D16A108-1E4A-495F-943F-BB3FAFAB5365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D16A108-1E4A-495F-943F-BB3FAFAB5365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D16A108-1E4A-495F-943F-BB3FAFAB5365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D16A108-1E4A-495F-943F-BB3FAFAB5365}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
