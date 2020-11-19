@@ -868,7 +868,7 @@
       },
       "CRPTAuthLib35/1.0.0": {
         "runtime": {
-          "CRPTAuthLib35Wrapper.dll": {}
+          "CRPTAuthLib35.dll": {}
         }
       },
       "Interop.CAPICOM/2.1.0.0": {

@@ -5,7 +5,7 @@ using System;
 using System.Net;
 using System.Text;
 
-namespace CRPTAuthLib35Wrapper
+namespace CRPTAuthLib35
 {
     public class AuthLib35
     {

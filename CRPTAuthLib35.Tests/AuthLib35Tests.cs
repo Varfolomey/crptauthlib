@@ -1,5 +1,5 @@
 using CRPTAuthLib35.Model;
-using CRPTAuthLib35Wrapper;
+using CRPTAuthLib35;
 using NUnit.Framework;
 using System;
 
