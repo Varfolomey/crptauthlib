@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRPTAuthLib35.Tests", "CRPT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRPTAuthLib35", "CRPTAuthLib35\CRPTAuthLib35.csproj", "{47B5EB0E-67A4-4ECF-ACFE-67A39792F7FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{E820CA35-EDF0-467A-AF0B-5CF513816897}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{47B5EB0E-67A4-4ECF-ACFE-67A39792F7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47B5EB0E-67A4-4ECF-ACFE-67A39792F7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47B5EB0E-67A4-4ECF-ACFE-67A39792F7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E820CA35-EDF0-467A-AF0B-5CF513816897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E820CA35-EDF0-467A-AF0B-5CF513816897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E820CA35-EDF0-467A-AF0B-5CF513816897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E820CA35-EDF0-467A-AF0B-5CF513816897}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

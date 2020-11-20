@@ -1,0 +1,16 @@
+Q:\crptauthlib\crptauthlib\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+Q:\crptauthlib\crptauthlib\TestApp\obj\Debug\TestApp.Form1.resources
+Q:\crptauthlib\crptauthlib\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+Q:\crptauthlib\crptauthlib\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+Q:\crptauthlib\crptauthlib\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+Q:\crptauthlib\crptauthlib\TestApp\bin\Debug\TestApp.exe
+Q:\crptauthlib\crptauthlib\TestApp\bin\Debug\TestApp.pdb
+Q:\crptauthlib\crptauthlib\TestApp\bin\Debug\CRPTAuthLib35.dll
+Q:\crptauthlib\crptauthlib\TestApp\bin\Debug\Interop.CAPICOM.dll
+Q:\crptauthlib\crptauthlib\TestApp\bin\Debug\Interop.CAdESCOM.dll
+Q:\crptauthlib\crptauthlib\TestApp\bin\Debug\Newtonsoft.Json.dll
+Q:\crptauthlib\crptauthlib\TestApp\bin\Debug\CRPTAuthLib35.pdb
+Q:\crptauthlib\crptauthlib\TestApp\bin\Debug\Newtonsoft.Json.xml
+Q:\crptauthlib\crptauthlib\TestApp\obj\Debug\TestApp.csproj.CopyComplete
+Q:\crptauthlib\crptauthlib\TestApp\obj\Debug\TestApp.exe
+Q:\crptauthlib\crptauthlib\TestApp\obj\Debug\TestApp.pdb
