@@ -86,9 +86,9 @@ namespace CRPTAuthLib35
                 var response = webClient.UploadString(queryString, "POST", JsonConvert.SerializeObject(authData));
                 authData = JsonConvert.DeserializeObject<AuthData>(response);
             }
-            catch (InvalidOperationException)
+            catch (InvalidOperationException e)
             {
-                authData.error_message = "Parameter \"queryString\" is not a valid URI.";
+                authData.error_message = "Parameter \"queryString\" is not a valid URI." + e.Message + e.StackTrace;
                 return authData;
             }
 

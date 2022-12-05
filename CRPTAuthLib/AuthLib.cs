@@ -136,9 +136,9 @@ namespace CRPTAuthLib
                     }
                 }
             }
-            catch (InvalidOperationException)
+            catch (InvalidOperationException e)
             {
-                authData.error_message = "Parameter \"queryString\" is not a valid URI.";
+                authData.error_message = "Parameter \"queryString\" is not a valid URI." + e.Message + e.StackTrace;
                 return authData;
             }
 
